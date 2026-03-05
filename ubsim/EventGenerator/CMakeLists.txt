@@ -20,6 +20,7 @@ add_subdirectory(HeavySterileNeutrino)
 add_subdirectory(HiggsPortalScalarGen)
 add_subdirectory(HeavyNeutralLeptonGen)
 add_subdirectory(TwoBodyDecayGen)
+add_subdirectory(MeVPrtl)
 
 install_fhicl()
 install_source()
